@@ -1,0 +1,2 @@
+What is the function of the git remote command?
+It lets you create, view and delete connections to other repositories. 
